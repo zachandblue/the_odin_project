@@ -6,3 +6,6 @@ end
 
 s = Sample.new
 s.hello
+5.times do
+  puts "hello, World"
+end
